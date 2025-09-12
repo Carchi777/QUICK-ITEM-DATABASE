@@ -16,13 +16,11 @@ I made this to fix the **main issue** of Minecraft's script api: **you cant save
 
 # What you can do with this?
 ```diff
-+ you CAN use this in your pubblic addon, including database credits in the download page.
-+ you CAN use this in your server, just add a credits section in it.
++You can use this script for your addon or server freely and edit it as you want to fit your addon or server. The only requirement is including credits.
++You can create custom versions of this forking the repository.
 
-- you CAN'T create your shortlink to download this.
-- you CAN'T pubblish this claiming it as yours.
-- you CAN'T sell this to other people.
-- you CAN'T pubblish custom versions without permissions.
+-You cannot sell this script or redistribute using ad-links.
+-You cannot redistribute this claiming this as yours.
 ```
 
 # Contributes
