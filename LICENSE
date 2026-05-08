@@ -1,5 +1,18 @@
-- 1 QIDB can be included in any project (marketplace, curseforge, mcpedl...), the only requirement are credits and source (this github page).
-- 2 You cannot sell this to anyone, selling this to privates is strictly proibithed. This doesn't affect marketplace (as said in 3).
-- 3 You can use this to publish on marketplace with the credits (as said in 1).
+QIDB License – © 2026 Carchi777
 
-I dont take responsability of any type on the things you do with this.
+1) QIDB may be included in any project (Marketplace, CurseForge, MCPEDL, GitHub, etc.).
+Credits must be clearly visible in the project's README, description page, or in-game credits screen, and must include the author's name (Carchi777) and a link to the original GitHub page.
+
+2) You are not allowed to sell QIDB as a standalone product.  
+Selling or redistributing QIDB directly to private individuals is strictly prohibited.
+This restriction does not affect Marketplace usage (see point 3).
+
+3) You are allowed to use QIDB in a Marketplace product, as long as:
+- QIDB is included as part of an addon,
+- Proper credits are given (as stated in point 1),
+- QIDB is not accessible as a standalone asset.
+
+4) You are allowed to modify QIDB for use within your own project or forking this repo to share it, but you may not redistribute a modified version as a standalone product claiming it as your own original work.
+
+5) Liability Disclaimer  
+I take no responsibility for how you use this database or for any consequences arising from its use.
